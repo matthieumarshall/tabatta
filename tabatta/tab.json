@@ -1,0 +1,4 @@
+{
+	"exercises": [ "jumping jacks", "squats", "plank" ],
+	"times": {"effort": 20,"rest": 2}
+}
