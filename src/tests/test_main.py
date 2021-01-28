@@ -2,4 +2,4 @@ from main import main
 
 
 def test_main():
-    assert main() == "Success!"
+    assert main() == "More success!"

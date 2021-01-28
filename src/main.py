@@ -1,5 +1,7 @@
+from utils import extra
+
 def main():
-    return "Success!"
+    return extra()
 
 
 if __name__ == "__main__":
